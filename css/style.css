@@ -62,7 +62,7 @@ img {
 }
 
 .navbar a:hover {
-    border-bottom: #28a745 2px solid;
+    border-bottom: #ff0000 2px solid;
 }
 
 .navbar ul {
@@ -131,7 +131,7 @@ img {
 }
 
 .icons i {
-    background-color: #28a745;
+    background-color: #ff0000;
     color: #fff;
     padding: 1rem;
     border-radius: 50%;
